@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AttilaMagyar
 - 👀 I’m interested in Java and web development
-- 🌱 I’m currently learning Java & JavaScript
+- 🌱 I’m currently learning Java
 - 📫 You can reach me at magyaratibusiness@gmail.com
 
 <!---
