@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Attila Magyar</h1>
 <h3 align="center">Junior Software and Web Developer.</h3>
 
-- 🌱 I'm currently learning Full Stack Web Development.
+- 🌱 I'm currently learning **Full Stack Web Development.**
 
 - 📫 Reach me at **magyaratibusiness@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">My Discord Server:</h3>
 <p align="left">
-<a href="https://discord.gg/5fkq64ESmW" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/5fkq64ESmW" target="blank"><img align="center" src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-10.jpg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
