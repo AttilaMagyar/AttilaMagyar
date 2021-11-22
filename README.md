@@ -9,7 +9,7 @@
 
 <h3 align="left">My Discord Server:</h3>
 <p align="left">
-<a href="https://discord.gg/5fkq64ESmW" target="blank"><img align="center" src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-10.jpg" height="30" width="40" /></a>
+<a href="https://discord.gg/5fkq64ESmW" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Black-Logo.wine.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
