@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **magyaratibusiness@gmail.com**
 
-- ⚡ Interested in **Java and Web Development**
+- ⚡ Interested in **Minecraft Plugin Development**
 
 <h3 align="left">My Discord Server:</h3>
 <p align="left">
